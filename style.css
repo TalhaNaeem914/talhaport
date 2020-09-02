@@ -1,0 +1,194 @@
+html{
+	scroll-behavior: smooth;
+}
+header{
+	background: linear-gradient(rgba(0,0,2,0.5 ), rgba(0,2,2,0.5)), url(IMG_20200125_1558061174.jpg);
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+ul li a{
+	color: white !important;
+	margin-left: 30px;
+
+}
+.content{
+	color: white;
+	margin-top: 15%;
+
+}
+.contt{
+	
+	margin-left: 150px; 
+}
+h1{
+	font-size: 60px !important;
+}
+.rt{
+	color: #ffff !important;
+	font-size: 15px;
+	border-radius: 4px  !important;
+	border: 3px solid #ffffff !important;
+
+}
+.rt:hover{
+	background-color: white;
+	color: black !important;
+	transition: 2s all ease;
+
+
+}
+.main{
+	margin-top: 10%;
+}
+.services{
+	margin-top: 15%;
+	text-align: center;
+	background-color: #F2F2F2;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+.co{
+	background-color: white;
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+#cir{
+	border-radius: 50%;
+	width: 50px; 
+	height: 50px;
+	margin-left: 38%;
+	position: absolute;
+	top: 10%;
+
+
+	background-color: orange;
+
+}
+.im{
+	margin-top: 70px;
+}
+.works{
+	background-color: #f5f8fd;
+	margin-top: 100px;
+	padding-top: 150px;
+}
+.get{
+	background-color: black;
+	padding-bottom: 70px;
+}
+#to{
+	margin-top: 100px;
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+}
+#to:hover{
+	background-color: white;
+	transition: 1s all ease;
+	color: black; 
+}
+.carousel-indicators li{
+  	background-color: #16c9f6 !important;
+  }
+  .blog{
+  	margin-top: 80px;
+
+  }
+  .get{
+  	background-color: black;
+  }
+  .gets{
+  	background-color: #f5f8fd;
+  	margin-top: 40px;
+  	padding-top: 120px;
+  	padding-bottom: 60px;
+  }
+  #wh{
+  	border: 2px solid white;
+  	background-color: white;
+  	padding-top: 90px;
+  	margin-top:50px; 
+  }
+  #bbb{
+   background-color: white;
+
+  }
+  #bbb:hover{
+  	background-color: #FFC107;
+  	transition: 1s all ease;
+  }
+  footer{
+  	background-color: black;
+  	height: 250px;
+  }
+  .box2:hover{
+  	background: black !important;
+  }
+  .box2:hover p{
+  	color: white !important;
+  }
+  .box2:hover h6{
+  	color: white;
+  }
+  .box2{
+  	transition: all 2s ease;
+
+  }
+  .gallery img{
+	transition: 1s;
+	filter: grayscale(50%);
+
+}
+.gallery img:hover{
+	transform: scale(1.1);
+	filter: grayscale(0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 700px)
+{
+	.co{
+		margin-top: 40px;
+	}
+	#cir{
+		margin-top: 40px;
+	}
+}
+.pro{
+	margin-top: 100px;
+}
+
+.we{
+	margin-top:  -20px;
+}
+.tte{
+	margin-right: 40%;
+}
+#formm{
+	margin-right: 70px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+#formms{
+	margin-left: 80px;
+}
+.contt{
+	margin-left: -2px;
+}
+}
